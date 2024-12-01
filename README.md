@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/namumakwembo/)
 
 
-Hello, I'm **Namu Makwembo**, a passionate and skilled **Full Stack Web Developer** with over 5 years of experience crafting innovative and efficient digital solutions.  
+I am, a passionate and skilled **Full Stack Web Developer** with over 5 years of experience crafting innovative and efficient digital solutions.  
 
 I am the creator of [Dezamarket.com](https://dezamarket.com/), an online e-commerce marketplace built with **Laravel**, featuring a **mobile application** that seamlessly integrates with the backend via a **REST API**. In addition, I’ve successfully developed numerous full-stack projects using Laravel, showcasing expertise in both backend and frontend technologies.  
 
