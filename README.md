@@ -4,13 +4,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/namumakwembo/)
 
 
-I am, a passionate and skilled **Full Stack Web Developer** with over 5 years of experience crafting innovative and efficient digital solutions.  
+I’m a **self-motivated Full Stack Web Developer** with 6+ years of experience building modern web and mobile applications using technologies like **Laravel**, **Livewire (v2 & v3)**, **Vue.js**, **Alpine.js**, **Tailwind CSS**, and **Flutter**. I specialize in creating clean, scalable backends with Laravel and dynamic user interfaces powered by modern frontend stacks.
 
-I am the creator of [Dezamarket.com](https://dezamarket.com/), an online e-commerce marketplace built with **Laravel**, featuring a **mobile application** that seamlessly integrates with the backend via a **REST API**. In addition, I’ve successfully developed numerous full-stack projects using Laravel, showcasing expertise in both backend and frontend technologies.  
+My current focus is on building developer tools and Laravel packages that streamline full-stack development. I maintain [**Namuio.com**](https://namuio.com/), a hub where you can explore my featured projects, open-source packages, and ongoing experiments aimed at boosting developer productivity.
 
-Currently, I’m working on **Wirechat**, a Livewire-powered chat package, and managing [Namuio.com](https://namuio.com/), a platform dedicated to developing Laravel packages aimed at empowering fellow developers with efficient tools for full-stack development.  
+One of my active projects is [**Wirechat**](https://wirechat.namuio.com/), a real-time chat package built with Livewire. I'm also passionate about knowledge sharing—I run a [**YouTube channel**](https://www.youtube.com/@namumakwembo) with over **1.3K subscribers**, where I teach the fundamentals of web development and guide developers through building real-world apps.
 
-Outside of work, I enjoy **traveling**, discovering new cultures, and finding inspiration in new experiences.
 
 ----
 ## Profile
