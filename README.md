@@ -1,17 +1,20 @@
-# Hi i am  Namu Makwembo 👋
+# Hi, I'm Namu Makwembo 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/namu-makwembo/)
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/namumakwembo/)
 
+I'm a **Software Engineer** with **7+ years of experience** building web and mobile products.
 
-I’m a **self-motivated Full Stack Web Developer** with 6+ years of experience building modern web and mobile applications using technologies like **Laravel**, **Livewire (v2 & v3)**, **Vue.js**, **Alpine.js**, **Tailwind CSS**, and **Flutter**. I specialize in creating clean, scalable backends with Laravel and dynamic user interfaces powered by modern frontend stacks.
+My work focuses on **Laravel**, **Livewire**, **Vue.js**, **Inertia.js**, **Alpine.js**, **Tailwind CSS**, **Flutter**, and **Dart**, with strong interest in developer tooling, product quality, and scalable software.
 
-My current focus is on building developer tools and Laravel packages that streamline full-stack development. I maintain [**Namuio.com**](https://namuio.com/), a hub where you can explore my featured projects, open-source packages, and ongoing experiments aimed at boosting developer productivity.
+I currently work at **Sell.app**, a digital ecommerce platform, where I help maintain product development, ship features, improve security, and support software as it scales in production.
 
-One of my active projects is [**Wirechat**](https://wirechat.namuio.com/), a real-time chat package built with Livewire. I'm also passionate about knowledge sharing—I run a [**YouTube channel**](https://www.youtube.com/@namumakwembo) with over **1.3K subscribers**, where I teach the fundamentals of web development and guide developers through building real-world apps.
+I also build open-source tools and products such as [**WireChat**](https://wirechat.namuio.com/), [**Corepine.dev**](https://corepine.dev/), and [**Meniom**](https://meniom.com/).
 
+You can explore more of my work at [**namuio.com**](https://namuio.com/).
 
-----
+I share what I learn through my [**YouTube channel**](https://www.youtube.com/@namumakwembo), where I publish practical content around Laravel, product development, and building real-world applications.
+
 ## Profile
 
 | **Category**          | **Technologies**                                                                                                                                                    |
