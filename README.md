@@ -9,9 +9,9 @@ My work focuses on **Laravel**, **Livewire**, **Vue.js**, **Inertia.js**, **Alpi
 
 I currently work at **Sell.app**, a digital ecommerce platform, where I help maintain product development, ship features, improve security, and support software as it scales in production.
 
-I also build open-source tools and products such as [**WireChat**](https://wirechat.namuio.com/), [**Corepine.dev**](https://corepine.dev/), and [**Meniom**](https://meniom.com/).
+I also build open-source tools and products such as [**WireChat**](https://https://corepine.dev/docs/wirechat/), [**Corepine.dev**](https://corepine.dev/), and [**Meniom**](https://meniom.com/).
 
-You can explore more of my work at [**namuio.com**](https://namuio.com/).
+You can explore more of my work at [**namumakwembo.me**](https://namumakwembo.me/).
 
 I share what I learn through my [**YouTube channel**](https://www.youtube.com/@namumakwembo), where I publish practical content around Laravel, product development, and building real-world applications.
 
